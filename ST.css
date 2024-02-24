@@ -98,7 +98,7 @@ width:80px;
     border-radius: 38px;
     padding: 20px;
     width: 180px;
-    height:20px;
+    height:30px;
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     color: aliceblue;
@@ -121,3 +121,63 @@ justify-content: space-around;
  .ss{
     text-align: center;
  }
+ #TAB{
+    border:none
+ }
+ .kutti{
+    height: 250px;
+    width:250px;
+
+ }
+ body {
+	font-family: Arial, sans-serif;
+}
+
+#header {
+	background-color: #333;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+
+nav ul {
+	background-color: #333;
+	list-style-type: none;
+	padding: 0;
+	overflow: hidden;
+}
+li:hover{
+    background-color: grey;
+}
+nav ul li {
+	float: left;
+}
+.final{
+    background-color: rgb(47, 46, 46);
+    width:100vw;
+    height:200px;
+    color:white;
+}
+
+nav ul li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+nav ul li a:hover {
+	background-color: #111;
+}
+
+section {
+	margin: 15px 0;
+}
+
+section h2 {
+	margin: 0 0 10px;
+}
+#sss{
+    width: 100vw;
+}
